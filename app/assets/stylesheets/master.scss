@@ -1,7 +1,18 @@
 @import "bootstrap";
 
+
 header {
-  border-top:9px solid #222222;
+  border-top: 9px solid #222222;
+}
+
+h1 {
+  font-family: 'kaushan_scriptregular', sans-serif;
+  font-weight: bold;
+  font-size: 48px;
+}
+
+h2 {
+   font-family: 'kaushan_scriptregular', sans-serif;
 }
 
 hr {
@@ -9,13 +20,15 @@ hr {
 }
 
 .links {
-  padding-top:26px;
+  padding-top: 26px;
 }
 
 .links a {
-  color:black;
-  font-size:25px;
-  border-bottom:1px solid #dfdfdf;
+  color: black;
+  font-size: 25px;
+  border-bottom: 1px solid #dfdfdf;
+  font-family: 'kaushan_scriptregular', sans-serif;
+  font-wieght: bold;
 }
 
 .slogan {
@@ -27,7 +40,7 @@ hr {
 }
 
 .circle {
-    font-weight:bold;
+    font-weight: bold;
     font-style: italic;
     position: relative;
     border-radius: 100%;
