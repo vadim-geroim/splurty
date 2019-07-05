@@ -12,7 +12,7 @@
   <body>
     <header class="row">
       <div class="col-3">
-        <%= link_to root_path do %>
+        <%= link_to root_path, class: 'logo' do %>
         <div class="circle">
           <br />
           You know
@@ -40,7 +40,7 @@
       <div class="container">
         <div class="row">
           <div class="col-6">
-            <%= link_to "This isn't enough, I need more", "#", class: 'next-quote' %>
+            <%= link_to "This isn't enough, I need more", root_path, class: 'next-quote' %>
           </div>
           <div class="col-6 footer-blurb">
             Proudly hacked by <a href="https://vadimgeroim.netlify.com/">Vadim Geroim</a><br />
