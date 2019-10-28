@@ -2,6 +2,17 @@
 
 This README document steps are necessary to get the application up and running.
 
+## Wireframes
+
+The Splurty Home page
+![Screenshot](/app/assets/images/home_page.png)
+____________________________________________________________________________________________________________________________
+Add-a-Quote Form
+![Screenshot](/app/assets/images/add_quote_form_page.png)
+____________________________________________________________________________________________________________________________
+About page
+![Screenshot](/app/assets/images/about_page.png)
+____________________________________________________________________________________________________________________________
 ## Precondition 
 * Ruby version 2.5.3 installed
 * Ruby on Rails version 5.2.3 installed
